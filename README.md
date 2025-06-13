@@ -1,2 +1,2 @@
 # Letterkenny
-Letterkenny Custom Faces for pwnagotchi
+Images from the TV show Letterkenny for pwnagotchi custom faces.
